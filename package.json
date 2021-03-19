@@ -8,7 +8,7 @@
     "cy:mobile": "cypress open --config viewportWidth=411,viewportHeight=823",
     "cy:run": "cypress run",
     "cy:run-mobile": "cypress run --config viewportWidth=411,viewportHeight=823",
-    "cy:dash":"cypress run --record --key 54837071-50c5-4dad-8667-e3ea297400da"
+    "cy:dash":"cypress run --record"
   },
   "keywords": [],
   "author": "",
